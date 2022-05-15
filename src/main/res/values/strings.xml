@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Oshiya Supermarket</string>
+    <string name="home">Home</string>
+    <string name="product">Product</string>
+    <string name="addProduct">Add Product</string>
+    <string name="myOrders">My Orders</string>
+    <string name="cart">Cart</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about_desc">A supermarket is a self-service shop offering a wide variety of food, beverages and household products, organized into sections. This kind of store is larger and has a wider selection than earlier grocery stores.</string>
+</resources>
